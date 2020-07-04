@@ -1,7 +1,7 @@
 ---
 title: hello everyone~
 author_profile: true
-permalink: /about/
+permalink: /myself/
 header:
 image:
 ---
