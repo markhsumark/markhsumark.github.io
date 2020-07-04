@@ -418,7 +418,7 @@ defaults:
   # about
   - scope:
       path: ""
-      type: about
+      type: myself
     values:
       layout: single
       author_profile: true
