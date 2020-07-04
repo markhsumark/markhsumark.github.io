@@ -1,5 +1,5 @@
 ---
-title: hello everyone~
+title: "hello everyone~"
 author_profile: true
 permalink: /myself/
 header:
