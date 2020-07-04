@@ -415,7 +415,7 @@ defaults:
       share: true
       toc: true
       toc_sticky: true
-  # about
+  # myself
   - scope:
       path: ""
       type: myself
