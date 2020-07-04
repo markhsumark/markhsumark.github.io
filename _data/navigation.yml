@@ -4,6 +4,8 @@ main:
   #  url: https://zainaftab2225.github.io/
   #  - title: "About"
   #  url: /about/
+  - title: "Coffee"
+    url: /coffee/
   - title: "Video Games"
     url: /videogames/
   - title: "Resume"
