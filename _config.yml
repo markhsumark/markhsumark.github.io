@@ -270,30 +270,33 @@ collections:
     output: true
     permalink: /:collection/:path/
   css:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
   videogames:
-      output: true
+      output: false
       permalink: /:collection/:path/
 
   computerscience:
-      output: true
+      output: false
       permalink: /:collection/:path/
 
   sociology:
-      output: true
+      output: false
       permalink: /:collection/:path/
 
   historyofusa:
-      output: true
+      output: false
       permalink: /:collection/:path/
 
   genderstudies:
-      output: true
+      output: false
       permalink: /:collection/:path/
 
   criminology:
+      output: false
+      permalink: /:collection/:path/
+  coffee:
       output: true
       permalink: /:collection/:path/
 # Defaults
@@ -399,3 +402,14 @@ defaults:
       values:
       layout:
       author_profile: true
+  #coffee
+  - scope:
+      path: ""
+      type: coffee
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      toc: true
+      toc_sticky: true
