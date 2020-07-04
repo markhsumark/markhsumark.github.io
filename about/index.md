@@ -1,7 +1,10 @@
 ---
 title: hello everyone~
-excerpt: "Learning to use markdown"
+author_profile: true
+permalink: /coffee/
 date: 2020-07-02
+header:
+image:
 ---
 
 #### hello
