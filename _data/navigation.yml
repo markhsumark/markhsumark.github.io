@@ -6,8 +6,8 @@ main:
   #   url: /myself/
   - title: "Coffee"
     url: /coffee/
-  # - title: "Video Games"
-  #   url: /videogames/
+  - title: "Video Games"
+    url: /videogames/
   # - title: "Resume"
   #   url: /resume/
   # - title: "Computer Science"

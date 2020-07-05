@@ -271,9 +271,9 @@ collections:
   #   output: true
   #   permalink: /:collection/:path/
 
-  # videogames:
-  #     output: true
-  #     permalink: /:collection/:path/
+  videogames:
+      output: true
+      permalink: /:collection/:path/
 
   # computerscience:
   #     output: true
