@@ -17,13 +17,10 @@ main:
   - title: "Gender Studies"
     url: /genderstudies/
 
-  - title: "CSS Posts"
-   url: /css-page/
+  # - title: "CSS Posts"
+  #  url: /css-page/
 
-  # - title: "Home"
-  #  url: https://zainaftab2225.github.io/
-  # - title: "Myself"
-  #   url: /myself/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
