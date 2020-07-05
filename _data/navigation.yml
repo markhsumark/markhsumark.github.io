@@ -2,7 +2,7 @@
 main:
   # - title: "Coffee"
   #   url: /coffee/
-  - title: "Video Games"
+  - title: "Coffee"
     url: /videogames/
   - title: "Resume"
     url: /resume/
