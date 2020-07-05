@@ -1,13 +1,12 @@
 ---
-title: "My coffee life"
+title: "Pour coffee"
 excerpt:
-date: 2020-06-24
+date: 0000-00-00
 tags: 
 ---
 
 
 <!--![image-center](/images/tlou2_review/tlou2_review_image_2.jpg){: .align-center}-->
-## This page will update my "Pour over" coffee record and photo.
 
 
 When the sequel to the critically acclaimed 'The Last of Us' was announced at PSX 2016, many fans were excited but
