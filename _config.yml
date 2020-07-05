@@ -331,10 +331,10 @@ defaults:
       share: true
       toc: true
 
-  # _videogames
+  # _coffee
   - scope:
       path: ""
-      type: videogames
+      type: coffee
     values:
       layout: single
       author_profile: true
