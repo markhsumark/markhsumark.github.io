@@ -267,39 +267,39 @@ compress_html:
 
 collections:
 
-  # css:
-  #   output: true
-  #   permalink: /:collection/:path/
+  css:
+    output: true
+    permalink: /:collection/:path/
 
   videogames:
       output: true
       permalink: /:collection/:path/
 
-  # computerscience:
-  #     output: true
-  #     permalink: /:collection/:path/
+  computerscience:
+      output: true
+      permalink: /:collection/:path/
 
-  # sociology:
-  #     output: true
-  #     permalink: /:collection/:path/
+  sociology:
+      output: true
+      permalink: /:collection/:path/
 
-  # historyofusa:
-  #     output: true
-  #     permalink: /:collection/:path/
+  historyofusa:
+      output: true
+      permalink: /:collection/:path/
 
-  # genderstudies:
-  #     output: true
-  #     permalink: /:collection/:path/
+  genderstudies:
+      output: true
+      permalink: /:collection/:path/
 
-  # criminology:
-  #     output: true
-  #     permalink: /:collection/:path/
+  criminology:
+      output: true
+      permalink: /:collection/:path/
   coffee:
       output: true
       permalink: /:collection/:path/
-  # about:
-  #     output: true
-  #     permalink: /:collection/:path/
+  about:
+      output: true
+      permalink: /:collection/:path/
 # Defaults
 defaults:
   # _posts
