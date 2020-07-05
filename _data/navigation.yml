@@ -4,18 +4,18 @@ main:
   #   url: /coffee/
   - title: "Coffee"
     url: /videogames/
-  - title: "Resume"
-    url: /resume/
-  - title: "Computer Science"
-    url: /computerscience/
-  - title: "US History"
-    url: /historyofusa/
-  - title: "Sociology"
-    url: /sociology/
-  - title: "Criminology"
-    url: /criminology/
-  - title: "Gender Studies"
-    url: /genderstudies/
+  # - title: "Resume"
+  #   url: /resume/
+  # - title: "Computer Science"
+  #   url: /computerscience/
+  # - title: "US History"
+  #   url: /historyofusa/
+  # - title: "Sociology"
+  #   url: /sociology/
+  # - title: "Criminology"
+  #   url: /criminology/
+  # - title: "Gender Studies"
+  #   url: /genderstudies/
 
   # - title: "CSS Posts"
   #  url: /css-page/
