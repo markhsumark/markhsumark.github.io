@@ -1,5 +1,5 @@
 ---
-title: Video Games
+title: "My coffee Life"
 layout: collection
 author_profile: true
 permalink: /videogames/
@@ -9,5 +9,5 @@ sort_by: date
 sort_order: reverse
 classes: wide
 header:
-  image: "/images/banners/videogames_banner.jpg"
+  image: 
 ---
