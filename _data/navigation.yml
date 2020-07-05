@@ -1,20 +1,20 @@
 # main links
 main:
-  - title: "Coffee"
+  -title: "Coffee"
     url: /coffee/
-  - title: "Video Games"
+  -title: "Video Games"
     url: /videogames/
-  - title: "Resume"
+  -title: "Resume"
     url: /resume/
-  - title: "Computer Science"
+  -title: "Computer Science"
     url: /computerscience/
-  - title: "US History"
+  -title: "US History"
     url: /historyofusa/
-  - title: "Sociology"
+  -title: "Sociology"
     url: /sociology/
-  - title: "Criminology"
+  -title: "Criminology"
     url: /criminology/
-  - title: "Gender Studies"
+  -title: "Gender Studies"
     url: /genderstudies/
 
   # - title: "CSS Posts"
