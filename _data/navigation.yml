@@ -2,8 +2,8 @@
 main:
   # - title: "Home"
   #  url: https://zainaftab2225.github.io/
-  - title: "Myself"
-    url: /myself/
+  # - title: "Myself"
+  #   url: /myself/
   - title: "Coffee"
     url: /coffee/
   # - title: "Video Games"
