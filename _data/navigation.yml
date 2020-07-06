@@ -4,8 +4,8 @@ main:
     url: /coffee/
   # - title: "Resume"
   #   url: /resume/
-  # - title: "Computer Science"
-  #   url: /computerscience/
+  - title: "About Me"
+    url: /about_me/
   # - title: "US History"
   #   url: /historyofusa/
   # - title: "Sociology"

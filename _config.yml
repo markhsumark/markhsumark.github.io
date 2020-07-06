@@ -346,7 +346,7 @@ defaults:
     # _computerscience
   - scope:
       path: ""
-      type: computerscience
+      type: about_me
     values:
       layout: single
       author_profile: true
@@ -402,6 +402,7 @@ defaults:
       share: true
       toc: true
       toc_sticky: true
+
   # myself
   # - scope:
   #     path: ""
