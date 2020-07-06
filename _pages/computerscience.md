@@ -9,5 +9,5 @@ sort_by: date
 sort_order: reverse
 classes: wide
 header:
-  image: "/images/banners/computerscience_banner.jpg"
+  # image: "/images/banners/computerscience_banner.jpg"
 ---
