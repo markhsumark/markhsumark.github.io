@@ -1,6 +1,6 @@
 ---
 title: About Me
-layout: 
+layout: collection
 author_profile: true
 permalink: /about_me/
 collection: about_me
