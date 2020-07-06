@@ -297,7 +297,7 @@ collections:
   coffee:
       output: true
       permalink: /:collection/:path/
-  about:
+  about_me:
       output: true
       permalink: /:collection/:path/
 # Defaults
@@ -395,19 +395,6 @@ defaults:
   - scope:
       path: ""
       type: genderstudies
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      share: true
-      toc: true
-      toc_sticky: true
-
-
-  #coffee
-  - scope:
-      path: ""
-      type: coffee
     values:
       layout: single
       author_profile: true
