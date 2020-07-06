@@ -17,5 +17,5 @@ Hi! welcome to my website!
 
 #### Hobby
 When I was free, I will like to dance, playing computer games and jogging.
-<img src ="images/about_me/IMG_2549.jpg" alt="my dance photo">
+<a href="https://imgur.com/DK3irOt"><img src="https://i.imgur.com/DK3irOt.jpg" title="source: imgur.com" /><a>
 [dance](/images/about_me/IMG_2549.JPG)
