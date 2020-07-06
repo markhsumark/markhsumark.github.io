@@ -15,7 +15,7 @@ header:
 Hi! welcome to my website!
  I am a Computer Science college student who enjoys learning and writing about a variety of subjects. I will keep pushing my work, note and life diary to this website.
 
-# Hobby
+#### Hobby
 When I was free, I will like to dance, playing computer games and jogging.
 
 [dance](/images/about_me/IMG_2549.JPG)
