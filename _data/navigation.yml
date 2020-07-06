@@ -1,11 +1,11 @@
 # main links
 main:
+  - title: "About Me"
+    url: /about_me/
   - title: "Coffee"
     url: /coffee/
   # - title: "Resume"
   #   url: /resume/
-  - title: "About Me"
-    url: /about_me/
   # - title: "US History"
   #   url: /historyofusa/
   # - title: "Sociology"

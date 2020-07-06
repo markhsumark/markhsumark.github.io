@@ -1,6 +1,6 @@
 ---
 title: About Me
-layout: collection
+layout: 
 author_profile: true
 permalink: /about_me/
 collection: about_me
@@ -11,3 +11,4 @@ classes: wide
 header:
   # image: "/images/banners/computerscience_banner.jpg"
 ---
+## inside the about_me.md
