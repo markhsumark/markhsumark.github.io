@@ -19,6 +19,6 @@ Hi! welcome to my website!
 When I was free, I will like to dance, playing computer games and jogging.
 <br>
 <a href="https://imgur.com/DK3irOt">
-<img src="https://i.imgur.com/DK3irOt.jpg" title="source: imgur.com" style="width:294px;height:342px;">
+<img src="https://i.imgur.com/DK3irOt.jpg" title="source: imgur.com" style="width:294px;height:370px;">
 <a>
 <!-- [dance](/images/about_me/IMG_2549.JPG) -->
