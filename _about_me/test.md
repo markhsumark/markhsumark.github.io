@@ -1,9 +1,8 @@
 ---
 title: "Dancing"
 excerpt: "First Text-based Game"
-date: 2020-07-02
+date: 2020-07-09
 ---
-
 <style>
 body {
   background-image: url("https://imgur.com/FyFIiLF");
@@ -22,8 +21,8 @@ h3 {
 
 ### Beginning
 
-When I was a senier high school student, I participate in the **HOT DANCE** club.
-It start my dancing life.
+..When I was a senier high school student, I participate in the **HOT DANCE** club.
+····It start my dancing life.
 
 ### Performance
 <a href="https://imgur.com/pn8jYm0"><img src="https://i.imgur.com/pn8jYm0.jpg" style="width:519px;height:261px;" title="source: imgur.com" /></a>
