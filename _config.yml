@@ -405,14 +405,3 @@ defaults:
       toc: true
       toc_sticky: true
 
-  # myself
-  # - scope:
-  #     path: ""
-  #     type: myself
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     share: true
-  #     toc: true
-  #     toc_sticky: true

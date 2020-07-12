@@ -24,7 +24,7 @@ When I was a senier high school student, I participate in the **HOT DANCE** club
 It start my dancing life.
 
 ### Performance
-<a href="https://imgur.com/pn8jYm0"><img src="https://i.imgur.com/pn8jYm0.jpg" style="width:519px;height:261px;" title="MIX All-star new style" /></a>
+<a href="https://www.youtube.com/watch?v=DjG6oCOyeZ0&list=PLKp2DVXTMYxKiJgDlCltTcQaMB_ZXUxit&index=41"><img src="https://i.imgur.com/pn8jYm0.jpg" style="width:519px;height:261px;" title="MIX All-star new style" /></a>
 <br>
 [2018 MIX x MIA 聯合室內公演 MIX All-star new style 組](https://www.youtube.com/watch?v=DjG6oCOyeZ0&list=PLKp2DVXTMYxKiJgDlCltTcQaMB_ZXUxit&index=41)
 
