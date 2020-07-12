@@ -25,11 +25,12 @@ div.desc {
   padding: 15px;
   text-align: center;
 }
+
 </style>
 <body>
 <div class="gallery">
-  <a target="_blank" href="https://i.imgur.com/BI3HlIZ.png">
-    <img src="https://imgur.com/BI3HlIZ" alt="Cinque Terre" width="600" height="400">
+  <a target="_blank" href="https://imgur.com/BI3HlIZ">
+    <img src="https://i.imgur.com/BI3HlIZ.png" alt="Cinque Terre" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
