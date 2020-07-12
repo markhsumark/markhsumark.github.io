@@ -3,15 +3,56 @@ title: "薈萃坊Elite caf'e"
 excerpt:
 date: 2020-02-02
 tags: 
-    - gallery
-gallery:
-  - url: /images/coffee/IMG_3159.JPG
-    image_path: /images/coffee/IMG_3159.JPG
-    alt: "Black and grays with a hint of green"
-  - url: /images/coffee/IMG_3158.jpg
-    image_path: /images/coffee/IMG_3158.jpg
-    alt: "test2"
-
 ---
-test gallery
-{% include gallery caption= "This is a sample gallery" %}
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+<body>
+<div class="gallery">
+  <a target="_blank" href="https://i.imgur.com/BI3HlIZ.png">
+    <img src="https://imgur.com/BI3HlIZ" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img_forest.jpg">
+    <img src="img_forest.jpg" alt="Forest" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img_lights.jpg">
+    <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+    <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+</body>
