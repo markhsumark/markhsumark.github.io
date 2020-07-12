@@ -14,10 +14,8 @@ body {
 p {
     text-indent: 35px;
 }
-h3 {
-    color: #2f4f4f;
-}
 </style>
+
 <a href="https://imgur.com/FyFIiLF"><img src="https://i.imgur.com/FyFIiLF.jpg" title="source: imgur.com" /></a>
 
 ### Beginning
