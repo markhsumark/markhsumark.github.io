@@ -11,8 +11,6 @@ classes: wide
 header:
   image: 
 ---
-#### hello!!!
-
 <style>
 div.gallery {
   margin: 5px;
@@ -31,30 +29,34 @@ div.gallery img {
 }
 
 div.desc {
-  padding: 15px;
+  padding: 12px;
   text-align: center;
+  color: brown;
 }
+I love drinking, making, and studing coffee.
+The following are my daily life of coffee.
+
+
 
 </style>
 <body>
 <div class="gallery">
-  <a target="_blank" href="/Elite_caf'e/">
-    <img src="https://i.imgur.com/BI3HlIZ.png" alt="Cinque Terre" width="600" height="400">
+  <a target="薈萃坊" href="/Elite_caf'e/">
+    <img src="https://i.imgur.com/BI3HlIZ.png" alt="薈萃坊連結圖片" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">
+    Elite Cafe 薈萃坊
+    <br>
+    Mysterious cafe hidden in the campus.
+  </div>
 </div>
-
 <div class="gallery">
-  <a target="_blank" href="img_forest.jpg">
-    <img src="img_forest.jpg" alt="Forest" width="600" height="400">
+  <a target="手沖日記" href="/pour_coffee/">
+    <img src="/images/coffee/maxresdefault.jpg" alt="手沖日記連結圖片" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">
+    My daily life with pour coffee
+    <br>
+    the note about my puor coffee.
+  </div>
 </div>
-
-<div class="gallery">
-  <a target="_blank" href="img_lights.jpg">
-    <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-</body>

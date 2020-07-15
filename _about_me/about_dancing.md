@@ -22,7 +22,7 @@ p {
 
 When I was a senier high school student, I participate in the **HOT DANCE** club.
 It start my dancing life.
-
+<hr>
 ### Performance
 <a href="https://www.youtube.com/watch?v=DjG6oCOyeZ0&list=PLKp2DVXTMYxKiJgDlCltTcQaMB_ZXUxit&index=41"><img src="https://i.imgur.com/pn8jYm0.jpg" style="width:519px;height:261px;" title="MIX All-star new style" /></a>
 <br>
