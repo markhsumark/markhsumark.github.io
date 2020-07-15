@@ -16,7 +16,7 @@ div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
-  width: 180px;
+  width: 250px;
 }
 
 div.gallery:hover {
@@ -32,6 +32,7 @@ div.desc {
   padding: 12px;
   text-align: center;
   color: brown;
+  font-family: Times, serif;
 }
 I love drinking, making, and studing coffee.
 The following are my daily life of coffee.

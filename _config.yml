@@ -299,6 +299,12 @@ collections:
   coffee:
       output: true
       permalink: /:collection/:path/
+  Elite_caf'e:
+      output: true
+      permalink: /:collection/:path/     
+  pour_coffee:
+      output: true
+      permalink: /:collection/:path/   
   about_me:
       output: true
       permalink: /:collection/:path/
