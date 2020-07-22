@@ -49,7 +49,7 @@ The following are my daily life of coffee.
 </div>
 <div class="gallery">
   <a target="手沖日記" href="/pour_coffee/">
-    <img src="/images/coffee/042-2_njglil.jpg.jpg" alt="手沖日記連結圖片" width="600" height="400">
+    <img src="https://i.imgur.com/6isa2RU.jpg" alt="手沖日記連結圖片" width="600" height="400">
   </a>
   <div class="desc">
     My daily life with pour coffee
