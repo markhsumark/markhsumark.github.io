@@ -4,12 +4,12 @@ layout: single
 author_profile: true
 permalink: /coffee/
 collection: coffee
-entries_layout: list
-sort_by: date
-sort_order: reverse
-classes: wide
-header:
-  image: 
+# entries_layout: list
+# sort_by: date
+# sort_order: reverse
+# classes: wide
+# header:
+  # image: 
 ---
 <style>
 div.gallery {
