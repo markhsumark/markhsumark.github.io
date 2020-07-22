@@ -350,17 +350,17 @@ defaults:
       share: true
       toc: true
       toc_sticky: true
-  # _Elite_caf'e
-  - scope:
-      path: ""
-      type: Elite_caf'e
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      share: true
-      toc: true
-      toc_sticky: true
+  # # _Elite_caf'e
+  # - scope:
+  #     path: ""
+  #     type: Elite_caf'e
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     share: true
+  #     toc: true
+  #     toc_sticky: true
 
     # _about_me
   - scope:
