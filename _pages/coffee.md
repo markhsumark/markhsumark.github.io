@@ -4,12 +4,7 @@ layout: single
 author_profile: true
 permalink: /coffee/
 collection: coffee
-# entries_layout: list
-# sort_by: date
-# sort_order: reverse
-# classes: wide
-# header:
-  # image: 
+
 ---
 <style>
 div.gallery {
@@ -33,6 +28,7 @@ div.desc {
   text-align: center;
   color: brown;
   font-family: Times, serif;
+  font-size:1;
 }
 I love drinking, making, and studing coffee.
 The following are my daily life of coffee.
@@ -53,7 +49,7 @@ The following are my daily life of coffee.
 </div>
 <div class="gallery">
   <a target="手沖日記" href="/pour_coffee/">
-    <img src="/images/coffee/maxresdefault.jpg" alt="手沖日記連結圖片" width="600" height="400">
+    <img src="/images/coffee/042-2_njglil.jpg.jpg" alt="手沖日記連結圖片" width="600" height="400">
   </a>
   <div class="desc">
     My daily life with pour coffee
@@ -61,3 +57,4 @@ The following are my daily life of coffee.
     the note about my puor coffee.
   </div>
 </div>
+
